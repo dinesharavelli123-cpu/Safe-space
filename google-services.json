@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090769072791",
+    "project_id": "sahaay-ai-39b34",
+    "storage_bucket": "sahaay-ai-39b34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090769072791:android:73c137829545a37aca2fd2",
+        "android_client_info": {
+          "package_name": "com.safespace.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZXdZnW1HnD0avOWT1KsUYP7h7PLCskg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
